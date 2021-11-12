@@ -1,0 +1,18 @@
+{
+  "name": "fsm",
+  "version": "0.0.1",
+  "description": "a simple finite state machine to help me better understand how it works",
+  "main": "index.js",
+  "scripts": {
+    "test": "haha, no"
+  },
+  "keywords": [
+    "fsm",
+    "state",
+    "machine",
+    "automata",
+    "state"
+  ],
+  "author": "Rob McLarty (hello@robmclarty.com)",
+  "license": "MIT"
+}
