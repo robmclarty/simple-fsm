@@ -1,5 +1,5 @@
 {
-  "name": "fsm",
+  "name": "simple-fsm",
   "version": "0.0.1",
   "description": "a simple finite state machine to help me better understand how it works",
   "main": "index.js",
