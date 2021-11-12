@@ -4,6 +4,7 @@
   "description": "a simple finite state machine to help me better understand how it works",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "haha, no"
   },
   "keywords": [
